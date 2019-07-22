@@ -2,14 +2,14 @@
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h2>The Thing Doers Application</h2>
 
 <form action="/action_page.php">
   First name:<br>
-  <input type="text" name="User ID" value="Mickey">
+  <input type="text" name="User ID" value="Enter here">
   <br>
   Last name:<br>
-  <input type="text" name="Password" value="Mouse">
+  <input type="text" name="Password" value="Enter here">
   <br><br>
   <input type="submit" value="Submit">
 </form> 

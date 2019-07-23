@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>The Thing Doers Application</h2>
+<h2>The Thing Doers Automated Clinical Coder System</h2>
 
 <form action="/action_page.php">
   First name:<br>

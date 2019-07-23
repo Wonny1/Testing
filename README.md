@@ -11,6 +11,7 @@
   <input type="text" name="Password" value="Enter here">
   <br><br>
   <input type="submit" value="Submit">
+  <input type="submit" value="Cancel">
 </form> 
 
 <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
